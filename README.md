@@ -1,40 +1,41 @@
-# BioAgent: Navigating the Frontier of AI-Powered Life Sciences 🧪🧬
+# BioAgent: 探索 AI 赋能的生命科学前沿 🧪🧬
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MindDance](https://img.shields.io/badge/By-MindDance-blue.svg)](https://github.com/minddance-x)
 
-**BioAgent** is a curated repository dedicated to tracking, analyzing, and reviewing cutting-edge AI Agents and tools that are revolutionizing biomedical research. We focus on tools that move beyond simple data processing to become autonomous "AI Research Assistants" or "AI Scientists."
+**BioAgent** 是一个专门用于追踪、分析和评审重塑生物医药研究的尖端 AI 智能体（Agents）和工具的精选仓库。我们关注的重点是那些超越简单数据处理、能够演变为自主“AI 研究助理”或“AI 科学家”的工具。
 
-## 🌟 Mission
-Our goal is to bridge the gap between rapidly evolving AI technologies and the life sciences community, providing scientists with the insights they need to stay at the forefront of the Bio-AI revolution.
+## 🌟 使命
+我们的目标是弥合快速演进的 AI 技术与生命科学界之间的鸿沟，为科学家提供前沿见解，助其站在 Bio-AI 革命的最前沿。
 
-## 📂 Repository Structure
-- `research_ai_bio_tools.csv`: The master database containing detailed analysis of 10+ (and growing) Bio-AI tools, including:
-  - Company background & founding teams
-  - Core features & technical stacks
-  - Target users & pricing models
-  - Unique competitive advantages
+## 📂 仓库结构
+- `research_ai_bio_tools.csv`: 核心数据库，包含对 10+ 款（持续增长中）Bio-AI 工具的详细分析，包括：
+  - 公司背景与创始人团队
+  - 核心功能与技术栈
+  - 目标用户与定价模式
+  - 独特的竞争优势
+- `README.md`: 项目介绍与概览（中文版）。
 
-## 🚀 Featured Tools Analyzed
-| Tool | Category | Key Strength |
+## 🚀 重点工具解析
+| 工具名称 | 类别 | 核心优势 |
 | :--- | :--- | :--- |
-| **Ascent Bio (Faraday)** | AI Scientist | Autonomous task execution across chem/bio. |
-| **Edison Scientific** | Parallel Research | Massive scalability and 80% reproducibility. |
-| **SciSpace BioMed** | Unified Action Space | Integrated 100+ packages and 150+ tools. |
-| **Pipette.bio** | Agentic Bioinformatics | Conversational, end-to-end NGS analysis. |
-| **Bystro** | Agentic Genomics | Grounded AI using real-world genotype data. |
+| **Ascent Bio (Faraday)** | AI 科学家 | 跨化学/生物领域的自主任务执行。 |
+| **Edison Scientific** | 并行研究 | 强大的扩展能力和 80% 的可复现性。 |
+| **SciSpace BioMed** | 统一行动空间 | 整合了 100+ 软件包和 150+ 专业工具。 |
+| **Pipette.bio** | 代理式生物信息学 | 对话式、端到端的 NGS 数据分析。 |
+| **Bystro** | 代理式基因组学 | 基于真实基因型数据的 Grounded AI。 |
 
-## 🔄 Roadmap & Updates
-- [x] Initial release of 10 core Bio-AI agents.
-- [ ] Monthly updates with new emerging tools.
-- [ ] Comparison benchmarks for LLM-driven scientific reasoning.
-- [ ] Integration with automated tool-tracking scripts.
+## 🔄 路线图与更新
+- [x] 首批 10 款核心 Bio-AI 智能体解析。
+- [ ] 每月定期更新新兴工具。
+- [ ] LLM 驱动的科学推理对比基准。
+- [ ] 集成自动化工具追踪脚本。
 
-## 🤝 Contributing
-Contributions are welcome! If you know of an AI tool that is changing the game in biology or medicine, feel free to open an issue or submit a pull request trailing the format in the CSV.
+## 🤝 参与贡献
+欢迎提交贡献！如果你发现任何正在改变生物医药研究范式的 AI 工具，请提交 Issue 或按照 CSV 格式提交 Pull Request。
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📄 开源协议
+本项目采用 MIT 协议开源 - 详见 [LICENSE](LICENSE) 文件。
 
 ---
-*Maintained by MindDance. Exploring the intersection of AI and the dance of life.*
+*由 MindDance 维护。探索 AI 与生命之舞的交汇点。*
