@@ -1,7 +1,7 @@
 # BioAgent: Navigating the Frontier of AI-Powered Life Sciences 🧪🧬
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![MindDance](https://img.shields.io/badge/By-MindDance-blue.svg)](https://github.com/minddance-ai)
+[![MindDance](https://img.shields.io/badge/By-MindDance-blue.svg)](https://github.com/minddance-x)
 
 **BioAgent** is a curated repository dedicated to tracking, analyzing, and reviewing cutting-edge AI Agents and tools that are revolutionizing biomedical research. We focus on tools that move beyond simple data processing to become autonomous "AI Research Assistants" or "AI Scientists."
 
@@ -14,7 +14,6 @@ Our goal is to bridge the gap between rapidly evolving AI technologies and the l
   - Core features & technical stacks
   - Target users & pricing models
   - Unique competitive advantages
-- `wechat_publish.md`: Ready-to-publish deep-dive articles (in Chinese) formatted for WeChat Official Accounts.
 
 ## 🚀 Featured Tools Analyzed
 | Tool | Category | Key Strength |
