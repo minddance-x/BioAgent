@@ -38,4 +38,4 @@
 本项目采用 MIT 协议开源 - 详见 [LICENSE](LICENSE) 文件。
 
 ---
-*由 MindDance 维护。探索 AI 与生命之舞的交汇点。*
+*由 MindDance 维护。*
